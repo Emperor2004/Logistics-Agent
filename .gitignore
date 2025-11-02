@@ -1,2 +1,9 @@
-.env
+__pycache__/
 venv/
+.env
+osrm_data/
+*.pyc
+dist/
+.build/
+.idea/
+.vscode/
